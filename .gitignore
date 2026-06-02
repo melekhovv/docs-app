@@ -1,0 +1,12 @@
+node_modules/
+docs.db
+docs.db-wal
+docs.db-shm
+uploads/
+*.log
+npm-debug.log*
+.DS_Store
+.env
+.env.local
+.vscode/
+.idea/
